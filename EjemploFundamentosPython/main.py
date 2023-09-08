@@ -94,4 +94,3 @@ for x in frutas:
 
 
 
-    Hola
