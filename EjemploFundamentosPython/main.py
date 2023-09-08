@@ -90,3 +90,8 @@ while(i <= 6):
 frutas = ["Manzanas", "Banano", "Pera"]
 for x in frutas:
     print(x)
+
+
+
+
+    Hola
